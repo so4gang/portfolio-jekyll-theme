@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
 
-title: SO4GANG
-description: SO4GANG is powered by Jekyll and Github Pages
+title: SO4
+description: SO4 is powered by Jekyll and Github Pages
 email: so4gangshit@gmail.com
 
 menu:
@@ -17,7 +17,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'SO4GANG is powered by Jekyll and GitHub Pages '
+  description: 'SO4 is powered by Jekyll and GitHub Pages '
   rel-author: 'https://plus.google.com/u/0/112676606207303422744'
   rel-publisher: 'https://plus.google.com/u/0/112676606207303422744'
 
@@ -35,7 +35,7 @@ seo:
 # About Section
 
 about: >
-  # We are SO4GANG
+  # #SO4
   
   
 
