@@ -49,7 +49,7 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'Coming Soon', folder: 'proj-1', file: 'projects/proj-1.html'}
+- {name: 'STAY BROKE', folder: 'proj-1', file: 'projects/proj-1.html'}
 
 #-------------------------------
 # Contact Section
