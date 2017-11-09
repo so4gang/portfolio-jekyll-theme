@@ -39,7 +39,8 @@ about: >
   
   
   [CHEFBOI RD](https://soundcloud.com/david-ochieng)
-  ![alt text](https://github.com/so4gang/so4gang.github.io/blob/master/assets/img/avatar/chefboird.jpg "Logo Title Text 1")
+  
+  ![My helpful screenshot]({{ "/assets/img/avatar/chefboird.jpg" | absolute_url }})
   
   
   [Kan$han The Scholar](https://soundcloud.com/kantaro-horino7)
