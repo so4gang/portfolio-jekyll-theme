@@ -35,9 +35,8 @@ seo:
 # About Section
 
 about: >
-  # SO4
   [CHEFBOI RD](https://soundcloud.com/david-ochieng)
-  {% include image="avatar/chefboird.jpg.png" %}
+  {% include image.html url="https://soundcloud.com/david-ochieng" image="projects/proj-1/staybroke.png" %}
   
   [Kan$han The Scholar](https://soundcloud.com/kantaro-horino7)
   [Fuji Kyle](https://soundcloud.com/fuji-kyle)
