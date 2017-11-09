@@ -36,11 +36,11 @@ seo:
 
 about: >
   [CHEFBOI RD](https://soundcloud.com/david-ochieng)
-  {% include image.html url="https://soundcloud.com/david-ochieng" image="projects/proj-1/staybroke.png" %}
-  
   [Kan$han The Scholar](https://soundcloud.com/kantaro-horino7)
   [Fuji Kyle](https://soundcloud.com/fuji-kyle)
   [Tubby T](https://soundcloud.com/prodbytubbyt)
+  
+  {% include image.html url="https://soundcloud.com/david-ochieng/stay-broke" image="projects/proj-1/staybroke.png" %}
   
 
 
