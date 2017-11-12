@@ -1,8 +1,7 @@
 # Build settings
-
 markdown: kramdown
 permalink: none
-plugins:            [jekyll-sitemap]
+plugins:[jekyll-sitemap]
 
 port: 4000
 
