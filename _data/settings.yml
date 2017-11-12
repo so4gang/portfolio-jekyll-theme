@@ -69,5 +69,7 @@ social:
 - {icon: 'twitter', link: 'https://twitter.com/so4_gang'}
 - {icon: 'instagram', link: 'https://www.instagram.com/so4_gang/?hl=en'}
 - {icon: 'envelope', link: 'mailto:so4gangshit@gmail.com'}
+- {icon: 'youtube', link: 'https://www.youtube.com/channel/UCmYS_Fu9PBQoEeZgb7de_Xw?view_as=subscriber'}
+- {icon: 'soundcloud', link: 'https://soundcloud.com/david-ochieng}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
