@@ -60,7 +60,7 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'STAY BROKE', folder: 'proj-1', file: 'projects/proj-1.html'}
+- {name: 'GROOVE', folder: 'proj-1', file: 'projects/proj-1.html'}
 
 #-------------------------------
 # Contact Section
