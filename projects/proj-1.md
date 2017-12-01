@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Stay Broke (prod. Handelhype Fuji Kyle)'
+title: 'GROOVE)'
 ---
 
-{% include image.html url="https://soundcloud.com/david-ochieng/stay-broke" image="projects/proj-1/staybroke.png" %}
+{% include image.html url="https://soundcloud.com/user-454793257/groove" image="projects/proj-1/staybroke.png" %}
