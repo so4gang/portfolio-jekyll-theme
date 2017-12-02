@@ -66,13 +66,15 @@ contact: >
 
 projects:
 - {name: 'GROOVE', folder: 'proj-1', file: 'projects/proj-1.html'}
+- {name: 'Wild Thoughts', folder: 'proj-2', file: 'projects/proj-2.html'}
+
 
 #-------------------------------
 # Contact Section
 
 social:
 - {icon: 'twitter', link: 'https://twitter.com/so4_gang'}
-- {icon: 'instagram', link: 'https://www.instagram.com/so4_gang/?hl=en'}
+- {icon: 'instagram', link: 'https://www.instagram.com/officialso4/}
 - {icon: 'envelope', link: 'mailto:so4gangshit@gmail.com'}
 - {icon: 'youtube', link: 'https://www.youtube.com/channel/UCmYS_Fu9PBQoEeZgb7de_Xw?view_as=subscriber'}
 - {icon: 'soundcloud', link: 'https://soundcloud.com/david-ochieng'}
