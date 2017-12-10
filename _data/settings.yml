@@ -68,6 +68,7 @@ contact: >
 projects:
 - {name: 'GROOVE', folder: 'proj-1', file: 'projects/proj-1.html'}
 - {name: 'Wild Thoughts', folder: 'proj-2', file: 'projects/proj-2.html'}
+- {name: 'VIBES', folder: 'proj-3', file: 'projects/proj-3.html'}
 
 
 #-------------------------------
