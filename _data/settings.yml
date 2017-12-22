@@ -70,7 +70,7 @@ projects:
 - {name: 'Wild Thoughts', folder: 'proj-2', file: 'projects/proj-2.html'}
 - {name: 'VIBES', folder: 'proj-3', file: 'projects/proj-3.html'}
 - {name: 'GAS', folder: 'proj-4', file: 'projects/proj-4.html'}
-- {name: 'Gas Remix', folder: 'proj-5', file: 'projects/proj-5.html'}
+- {name: 'Gas REMIX', folder: 'proj-5', file: 'projects/proj-5.html'}
 
 
 
