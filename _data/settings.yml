@@ -76,6 +76,8 @@ projects:
 - {name: 'Everything Was Meant', folder: 'proj-8', file: 'projects/proj-8.html'}
 - {name: 'Smoking Dope', folder: 'proj-9', file: 'projects/proj-9.html'}
 - {name: 'Higher', folder: 'proj-10', file: 'projects/proj-10.html'}
+- {name: 'Higher', folder: 'proj-11', file: 'projects/proj-11.html'}
+
 
 
 
