@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Smoking Dope CHEFBOI RD & AMB flow (ft. Karmah & Asap Rocky)'
+title: 'WIERDO by CHEFBOI RD & (ft. AMB flow)'
 ---
 
-{% include image.html url="hhttps://soundcloud.com/david-ochieng/smoking-dope-chefboi-rd-amb-flow-ft-karmah-asap-rocky" %}
+{% include image.html url="https://soundcloud.com/david-ochieng/wierdo-ft-amb-flow" %}
